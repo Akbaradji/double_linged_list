@@ -187,6 +187,11 @@ namespace double_linked_list
                                     "whose record is to be deleted: ");
                             }
                             break;
+                        case '3':
+                            {
+                                obj.ascending();
+                            }
+                            break;
                     }
                 }
             }
